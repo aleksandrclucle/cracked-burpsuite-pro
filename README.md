@@ -19,7 +19,7 @@ sudo chmod +x *
 ```
 6. Run
 ```bash
-./burp_pro.sh
+sudo ./burp_pro.sh
 ```
 7. In open window mark checkbox Auto Run and Ignore Update
 8. Copy License, them click Run
