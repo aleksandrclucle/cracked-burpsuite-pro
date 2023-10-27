@@ -23,7 +23,7 @@ sudo ./burp_pro.sh
 ```
 7. In open window mark checkbox Auto Run and Ignore Update
 8. Copy License, them click Run
-9. Paste License, click on Manual Activasion, copy activation Request
+9. Paste License, click on Manual Activation, copy activation Request
 10. Paste activation Request and Copy Response, then paste Response.
 
 Happy Happy Happy
